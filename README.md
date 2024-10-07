@@ -6,9 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahneee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNocTA1N3FrdXZtc2Y2bmJnMTY5cngxZDd2eHhmOW5tcGN6YTF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yIB2SMZBt40rZE94V/giphy.gif"  />
 
 ###
 
@@ -36,6 +33,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
+
+###
+
+<img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNocTA1N3FrdXZtc2Y2bmJnMTY5cngxZDd2eHhmOW5tcGN6YTF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yIB2SMZBt40rZE94V/giphy.gif"  />
 
 ###
 
