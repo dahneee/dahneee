@@ -36,10 +36,6 @@
 
 ###
 
-<img align="center" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNocTA1N3FrdXZtc2Y2bmJnMTY5cngxZDd2eHhmOW5tcGN6YTF2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9yIB2SMZBt40rZE94V/giphy.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/dahneee/dahneee/output/snake.svg" alt="Snake animation" />
